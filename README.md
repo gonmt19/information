@@ -1,1 +1,1 @@
-﻿情報理論まわりで学んだことの実装。
+﻿implement some algorithms relating to Information Theory
